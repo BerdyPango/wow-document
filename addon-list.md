@@ -1,5 +1,7 @@
 # 插件设置
 
+目前使用插件的思路是按需安装，新手盒子和大脚客户端都有对应的插件管理模块，以下插件几乎都可以从这些模块中搜到。本文中提到的插件链接都使用了原始出处。
+
 > 正式服版本（目录为 _retail_）和旧世经典版本（目录为 _classic_）的文件夹都在 World of Warcraft 文件夹中，对于不同的游戏版本
 
 ## 字体(非插件)
@@ -25,7 +27,7 @@
 
 ## 图标(非插件)
 
-[Clean Icons - Thin](https://www.wowinterface.com/downloads/info19844): 将默认图标边框替换为扁平化的图标风格，从 WowInterface 下载，替换到 Interface/Icons 文件夹
+- [Clean Icons - Thin](https://www.wowinterface.com/downloads/info19844): 将默认图标边框替换为扁平化的图标风格，从 WowInterface 下载，替换到 Interface/Icons 文件夹
 
 ## 插件
 
@@ -36,14 +38,14 @@
 ### 监控
 
 - [WeakAuras](https://www.curseforge.com/wow/addons/weakauras-2): 监控插件，进阶玩家必备
-- [TellMeWhen]: 简单的监控插件，WA 的替代选择，功能不如 WA 齐全但上手简单
+- [TellMeWhen](https://www.curseforge.com/wow/addons/tellmewhen): 简单的监控插件，WA 的替代选择，功能不如 WA 齐全但上手简单
 
 ### 副本及地下城
 
 - [ ] DBM - Deadly Boss Mods: 团队副本及地下城/地下堡 boss 技能监控。从 [DBM - Core](https://www.curseforge.com/wow/addons/deadly-boss-mods) 页面下载更多组件。
-- [X] BigWigs: DBM 的替代选择，简单易上手
+- [X] BigWigs: DBM 的替代选择，简单易上手，越来越多的人放弃 DBM 开始使用该插件。
 - [X] [GTFO](https://www.curseforge.com/wow/addons/gtfo): 副本神器，会在你站在不应该站的地方（例如地上的黑水）时发出声音警报，PvE 玩家必备插件。
-- [X] Cell: 最好用的团队框架插件
+- [X] Cell: 国人团队开发的，据说是国服最好用的团队框架插件
 - [X] OmniCD: 团队冷却计时、打断/驱散监控
 - [X] Angry Keystones: 展示额外大秘境副本信息
 
@@ -56,7 +58,7 @@
 - [X] [Plater](https://www.curseforge.com/wow/addons/plater-nameplates): 允许对姓名板做自定义，+ 导入雨帆姓名板配置
 - [X] [TinyInspect](https://www.curseforge.com/wow/addons/itemlevel-anywhere): 角色面板右侧总结框，更好的查看装等，附魔，宝石等强化信息
 - [X] [TinyTooltip](https://www.curseforge.com/wow/addons/tinytooltip): 增强 Tooltip 显示信息，包括物品、增益和法术 id
-- [ ] BagSyncs: 展示物品的数量，依据战团角色的背包、银行等信息。
+- [X] BagSyncs: 展示物品的数量，依据战团角色的背包、银行等信息。
 - [X] [Already Known](https://vickey.fun/2022/07/29/Changing-Standard-WoW-Fonts-and-Adding-Recommended-Addons/#5-Already-Known): 能够为玩家将商人和拍卖行中已经获取的或已经学习的物品进行着色，包含专业图纸、要塞计划、玩具、坐骑、宠物和装备图纸等，避免玩家重复购买。
 - [X] [Item Upgrade Tip](https://www.wowinterface.com/downloads/download26580-ItemUpgradeTip): 显示物品升级所需材料信息，从 WoWInterface 下载。
 - [X] [KeystoneLoot]: 非常好用的地下城/团队副本掉落查询器

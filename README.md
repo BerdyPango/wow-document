@@ -2,6 +2,10 @@
 
 魔兽世界文档整理
 
+## 关于插件
+
+看这里 [addon-list.md](addon-list.md)
+
 ## 有用链接
 
 - [Warcraft Logs](https://cn.warcraftlogs.com/): 魔兽世界玩家上传的战斗日志汇总网站，各职业专精团本大秘境数据查询
